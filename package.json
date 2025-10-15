@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/siyabongamasiya/music-playlist-api/issues"
   },
-  "homepage": "https://github.com/siyabongamasiya/music-playlist-api#readme"
+  "homepage": "https://github.com/siyabongamasiya/music-playlist-api#readme",
+  "dependencies": {
+    "@types/node": "^24.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
 }
